@@ -1,0 +1,14 @@
+[project]
+name = "ffacts-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "sb", email = "269487051+sb-sinichka@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "googletrans==4.0.0rc1",
+    "pytelegrambotapi>=4.36.1",
+    "pyttsx3>=2.99",
+]
